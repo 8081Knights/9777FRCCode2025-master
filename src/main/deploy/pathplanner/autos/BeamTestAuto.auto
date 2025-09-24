@@ -1,0 +1,31 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TestPathSHORT"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "jointDown"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "inNOut"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}
