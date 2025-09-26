@@ -74,10 +74,6 @@ public class HardwareMappings {
         ele2Conf.closedLoop.p(.09d).d(.01d).outputRange(-.7, .9);
         Ele2.configure(ele2Conf, ResetMode.kResetSafeParameters, PersistMode.kPersistParameters);
     }
-    
-
-
-
 
 
 
