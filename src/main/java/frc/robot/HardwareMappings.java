@@ -57,7 +57,7 @@ public class HardwareMappings {
     public static double elevatoroffset = 0;
     public static int currentElevatorCase = 0;
     public static boolean safeUp;
-    public static boolean safeDown = false;   
+    public static boolean safeDown;   
     public static double speedFactor = 1;
     public static double realSpeedFactor = 1;
     
